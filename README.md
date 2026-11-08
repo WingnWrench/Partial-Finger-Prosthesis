@@ -3,7 +3,7 @@
 A low-cost, durable, open-source prosthetic hand for people missing two phalanges on each finger.
 
 <p align="center">
-  <img src="images/claudia-using-hand.jpg" width="420" alt="Claudia holding a water bottle with the prosthetic hand">
+  <img src="claudia-using-hand.jpg" width="420" alt="Claudia holding a water bottle with the prosthetic hand">
 </p>
 
 🔗 **CAD (Onshape):** <ADD CAD LINK HERE>
@@ -24,30 +24,30 @@ Building a device that Claudia can use to help grab objects was already incredib
 Fully mechanical, fully rigid, reliable, durable, and simple in appearance. The main priority is functionality. The CAD is parametric, so the finger can be rescaled to each person's measurements.
 
 <p>
-  <img src="images/finger-side.png" width="32%" alt="Finger, side view">
-  <img src="images/finger-tip-joint.png" width="32%" alt="Fingertip and joint">
-  <img src="images/linkage-2d.png" width="32%" alt="Linkage sketch">
+  <img src="finger-side.png" width="32%" alt="Finger, side view">
+  <img src="finger-tip-joint.png" width="32%" alt="Fingertip and joint">
+  <img src="linkage-2d.png" width="32%" alt="Linkage sketch">
 </p>
 <p>
-  <img src="images/fingertip-v2.png" width="32%" alt="Redesigned fingertip">
-  <img src="images/fingertip-assembly.png" width="32%" alt="Fingertip assembly">
-  <img src="images/mid-grip.png" width="32%" alt="Mid grip">
+  <img src="fingertip-v2.png" width="32%" alt="Redesigned fingertip">
+  <img src="fingertip-assembly.png" width="32%" alt="Fingertip assembly">
+  <img src="mid-grip.png" width="32%" alt="Mid grip">
 </p>
 
 **Attachment.** The device is attached to the residual finger and the back of the hand.
 
 <p>
-  <img src="images/attachment-ring.png" width="32%" alt="Attachment ring">
-  <img src="images/back-hand-attachment.png" width="32%" alt="Back of hand attachment">
+  <img src="attachment-ring.png" width="32%" alt="Attachment ring">
+  <img src="back-hand-attachment.png" width="32%" alt="Back of hand attachment">
 </p>
 
 **Grip.** Textured pads for better grip, with molds for an optional silicone version.
 
 <p>
-  <img src="images/grip-pad.png" width="24%" alt="Grip pad">
-  <img src="images/grip-texture.png" width="24%" alt="Grip texture">
-  <img src="images/mold-1.png" width="24%" alt="Mold">
-  <img src="images/mold-2.png" width="24%" alt="Mold">
+  <img src="grip-pad.png" width="24%" alt="Grip pad">
+  <img src="grip-texture.png" width="24%" alt="Grip texture">
+  <img src="mold-1.png" width="24%" alt="Mold">
+  <img src="mold-2.png" width="24%" alt="Mold">
 </p>
 
 ## Movement
@@ -55,12 +55,12 @@ Fully mechanical, fully rigid, reliable, durable, and simple in appearance. The 
 The joint angles were documented on a real hand and modelled with trigonometry, so the finger moves as close as possible to a natural one. Typical proportions used: proximal : middle : distal ≈ 2 : 1.2 : 1.
 
 <p>
-  <img src="images/angle-measurements.png" width="32%" alt="Measured joint angles">
-  <img src="images/kinematics-equations.png" width="32%" alt="Kinematics equations">
-  <img src="images/kinematics-desmos.png" width="32%" alt="Kinematics model in Desmos">
+  <img src="angle-measurements.png" width="32%" alt="Measured joint angles">
+  <img src="kinematics-equations.png" width="32%" alt="Kinematics equations">
+  <img src="kinematics-desmos.png" width="32%" alt="Kinematics model in Desmos">
 </p>
 <p>
-  <img src="images/angle-curves.png" width="32%" alt="Angle curves">
+  <img src="angle-curves.png" width="32%" alt="Angle curves">
 </p>
 
 ## Testing
@@ -68,8 +68,8 @@ The joint angles were documented on a real hand and modelled with trigonometry, 
 Dozens of prototypes, tested on a real hand. Acrylic handled stress much better than MDF.
 
 <p>
-  <img src="images/testing-on-hand.jpg" width="24%" alt="Testing on a hand">
-  <img src="images/printing.png" width="45%" alt="3D printing a part">
+  <img src="testing-on-hand.jpg" width="24%" alt="Testing on a hand">
+  <img src="printing.png" width="45%" alt="3D printing a part">
 </p>
 
 ## Why it matters
