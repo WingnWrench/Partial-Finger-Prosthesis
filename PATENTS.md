@@ -3,7 +3,7 @@
 ## Português
 
 - Publicar estes arquivos não é fabricar o dispositivo. Patentes valem apenas no país onde foram concedidas.
-- Projeto desenvolvido de forma independente no Brasil por <SEU NOME>. Primeira versão pública: <AAAA-MM-DD>. Arquivo permanente: DOI <10.5281/zenodo.XXXXXXX>.
+- Projeto desenvolvido de forma independente no Brasil. Primeira versão pública: 2026-11-1. Arquivo permanente.
 - Em 2026-11-07, não encontrei patente ou modelo de utilidade em vigor no Brasil que cubra este projeto (busca no INPI). Isto não é um parecer jurídico nem uma garantia.
 - **Fora do Brasil:** existem patentes de terceiros sobre dedos protéticos em outros países (incluindo EUA, Europa, Japão e Canadá). Antes de fabricar, usar ou vender este dispositivo fora do Brasil, verifique as patentes do seu país.
 - Este projeto não envia peças, kits ou dispositivos para fora do Brasil.
