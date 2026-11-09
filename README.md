@@ -15,9 +15,7 @@ A low-cost, durable, open-source prosthetic hand for people missing two phalange
 
 The goal of this project is to create a low-cost, durable, open-source prosthetic hand for people missing two phalanges on each finger. We have already incorporated all six main grasp types (tip, hook, palmar, spherical, lateral, and cylindrical), which served as the primary stepping stones for the project. But there is still much progress to be made to make it more practical, reliable, and easier to repair/construct.
 
-At the time of writing, there is no open-source prosthetic hand for people missing two phalanges. Buying one is for the few: commercial prosthetic fingers can cost around R$100,000 each. The primary purpose of the project is to make something open source, so that anyone can download, adapt, and improve it, greatly expanding who can benefit from it.
-
-Building a device that Claudia can use to help grab objects was already incredibly rewarding. But we haven't stopped. Our goal is to make a device that actually benefits people in their daily lives, and hopefully the project continues with another student, online, continually improving the design.
+At the time of writing, there is no open-source prosthetic hand for people missing two phalanges. Buying one is for the few: commercial prosthetic fingers can cost around $100,000 BRL each. The primary purpose of the project is to make something open source, so that anyone can download, adapt, and improve it, greatly expanding who can benefit from it.
 
 ## Design
 
